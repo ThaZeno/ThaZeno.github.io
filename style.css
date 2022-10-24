@@ -1,4 +1,17 @@
-.title { 
+.body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: mediumslateblue;
+}
+
+.main {
+    padding: auto;
+}
+
+.main-subtitle {
+    font-size: large;
+}
+
+.main-content {
+    font-size: medium;
 }
 
